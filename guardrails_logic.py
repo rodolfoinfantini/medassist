@@ -25,7 +25,7 @@ class MedAssistGuardrails:
         """
         forbidden_keywords = [
             "você tem", "seu diagnóstico é", "receito", "tome o remédio",
-            "doença confirmada", "prescrição"
+            "doença confirmada"
         ]
 
         for word in forbidden_keywords:

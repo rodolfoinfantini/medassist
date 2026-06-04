@@ -5,6 +5,10 @@ O **MedAssist Guardrail** é um protótipo funcional de um chatbot para triagem 
 
 Este projeto faz parte da disciplina de **Tópicos em Engenharia de Software** da PUC-Campinas (2026).
 
+## 📺 Demonstração Funcional
+Confira o sistema em operação, demonstrando os Guardrails e a lógica de Human-in-the-Loop:
+- **Vídeo (YouTube):** [Assista aqui](https://youtu.be/QWTthvWSU7M)
+
 ## Funcionalidades Principais
 - **Input Guardrail**: Detecção de PII (Informações Pessoais Identificáveis) e bloqueio de linguagem inadequada.
 - **Output Guardrail**: Bloqueio de recomendações médicas diretas e diagnósticos conclusivos.
